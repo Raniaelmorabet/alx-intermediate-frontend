@@ -59,5 +59,4 @@ These projects are part of the **ALX Pro-Dev Program**, emphasizing real-world a
 - Apply best practices for modern web development.
 
 ---
-
-**Embrace Semantic HTML**: Build websites that aren't just functional but also meaningful, structured, and future-proof. 💻✨
+ **Embrace Semantic HTML**: Build websites that aren't just functional but also meaningful, structured, and future-proof. 💻✨
